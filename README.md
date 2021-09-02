@@ -1,3 +1,5 @@
+{% data reusables.m %}
+
 - 👋 Hi, I’m Mahdi Khosravi
 - 👀 I’m interested in android development
 - 🌱 I’m currently learning kotlin
