@@ -1,0 +1,7 @@
+# multiple short strings in one file
+USER_NAME: mahdidev78
+
+# and they can be nested if needed
+nested:
+  values:
+    too: Yes!
