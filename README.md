@@ -17,4 +17,8 @@ You can click the Preview link to take a look at your changes.
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=mahdidev78&layout=compact&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdidev78&layout=compact)](https://github.com/mahdidev78/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=mahdidev78&color=blue&style=flat-square)
+![](https://komarev.com/ghpvc/?username=mahdidev78&color=blue)
+<a href="https://github.com/mahdidev78?tab=followers"><img src="https://img.shields.io/github/followers/mahdidev78?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+<a href="https://www.ubuntu.com/"><img src="https://img.shields.io/badge/Os-Ubuntu-a80030"/></a>
+<a href="https://github.com/mahdidev78?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+
