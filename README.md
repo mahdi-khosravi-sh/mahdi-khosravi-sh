@@ -3,6 +3,9 @@ mahdidev78/mahdidev78 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/mahdidev78)
+
+
 
 #### Mahdi Khosravi
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahdidev78)](https://git.io/streak-stats)
@@ -16,6 +19,13 @@ You can click the Preview link to take a look at your changes.
 
 
 ### 🔨 Languages and Tools:
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Inkscape-informational?style=flat&logo=inkscape&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-ShapeShift-informational?style=flat&logo=shapeshift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-AndroidStudio-informational?style=flat&logo=androidstudio&logoColor=white&color=green)
 
 
 
