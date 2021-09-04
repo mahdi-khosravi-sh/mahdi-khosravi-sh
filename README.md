@@ -1,4 +1,7 @@
 ## Hi 👋 , I’m Mahdi Khosravi :rose:	
+
+<img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/mahdidev78/.github/master/.resources/profile-header.svg" />
+
 ![Profile Views Badge](https://komarev.com/ghpvc/?username=mahdidev78&color=blue)
 [![Followers Badge](https://img.shields.io/github/followers/mahdidev78?color=%234CC61E&label=GitHub%20Followers%20%3A)](https://github.com/mahdidev78?tab=followers)
 [![Repos Badge](https://badges.pufler.dev/repos/mahdidev78)][GitHub Repos]
@@ -6,7 +9,6 @@
 [![OpenSource Love Badge](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)][GitHub Repos]
 [![Ubuntu Badge](https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 <!-- [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/mahdidev78) -->
@@ -18,6 +20,7 @@
 [![Andoird Badge](https://img.shields.io/badge/Dev-Android-3DDC84?logo=android&logoColor=white)](https://developer.android.com/)
  -->
 <details>
+	<br />
 	<summary><b>🔨 Languages and Tools</b></summary>
 	
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -50,12 +53,13 @@
   <br />
   <summary><b>📊 Github Stats</b></summary>
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=mahdidev78&layout=compact&show_icons=true)
+![Repository’s Stats](https://github-readme-stats.vercel.app/api?username=mahdidev78&layout=compact&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdidev78&layout=compact)
   
 </details>
 
 <details>
+  <br />
   <summary><b>☄️  Github Streaks</b></summary>
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahdidev78)](https://git.io/streak-stats)
@@ -82,6 +86,7 @@
 </details>
 
 <details>
+	<br />
 	<summary><b>🔍 Where to find me</b></summary>
   
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="24" />][StackOverflow]
