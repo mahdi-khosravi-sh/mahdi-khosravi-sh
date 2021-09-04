@@ -94,6 +94,7 @@
 [<img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium logo" title="Medium" height="24" />][Medium]
 [<img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="Github logo" title="Github" height="24" />][GitHub]
 [<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram logo" title="Instagram" height="24" />][Instagram]
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram logo" title="Telegram" height="24" />][Telegram]
 	
 </details>
 
@@ -101,6 +102,7 @@
 [LinkedIn]:https://www.linkedin.com/in/mahdi-khosravi-6a366121b/
 [StackOverflow]:https://stackoverflow.com/users/16764233/mahdidev78
 [Instagram]:https://www.instagram.com/mahdidev78/
+[Telegram]:https://t.me/mahdidev78/
 [Medium]:https://medium.com/@mahdidev78
 [GitHub]:https://github.com/mahdidev78
 [GitHub Repos]:https://github.com/mahdidev78?tab=repositories
