@@ -11,14 +11,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/mahdidev78)
 
 
-<!-- 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/inkscape/inkscape-ar21.svg"></code>
- -->
-
-
 - 👀 I’m interested in android development 
-- 🌱 I’m currently learning kotlin
+- :books: I’m currently learning Kotlin.
 - ⚙️ I use daily: .kt, .java, .xml, .svg, .png
 <!-- 
 [![Andoird Badge](https://img.shields.io/badge/Dev-Android-3DDC84?logo=android&logoColor=white)](https://developer.android.com/)
@@ -26,9 +20,12 @@
 <details>
 	<br />
 	<summary><b>🔨 Languages and Tools</b></summary>
+
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/inkscape/inkscape-ar21.svg"></code>
+
 	
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Tools-Inkscape-informational?style=flat&logo=inkscape&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-ShapeShift-informational?style=flat&logo=shapeshift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
@@ -47,7 +44,8 @@
 
 ![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat&logo=androidstudio&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=android&logoColor=white&color=green)
-	
+#
+
 </details>
 
 <!-- 
@@ -59,7 +57,7 @@
 
 ![Repository’s Stats](https://github-readme-stats.vercel.app/api?username=mahdidev78&layout=compact&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdidev78&layout=compact)
-  
+#
 </details>
 
 <details>
@@ -67,6 +65,8 @@
   <summary><b>☄️  Github Streaks</b></summary>
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahdidev78)](https://git.io/streak-stats)
+#
+
 </details>
   
 
@@ -80,13 +80,14 @@
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
 		<li>
-	
+			
 ![Workspace CPU](https://img.shields.io/badge/Intel-Core_i7_4th-0071C5?logo=intel&logoColor=white)
 ![Workspace Graphic Card](https://img.shields.io/badge/NVIDIA-GF117M-76B900?logo=nvidia&logoColor=white)
 ![Workspace Name](https://img.shields.io/badge/Ubuntu-MSI_CX61-0078D6?logo=ubuntu&logoColor=white)
 	 	</li>
-	<br />
-	</ul>
+	</ul>	
+#
+	
 </details>
 
 <details>
@@ -103,6 +104,14 @@
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram logo" title="Telegram" height="24" />][Telegram]
 
 </details>
+
+#
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+
+#### Thank You  🙏 :rose: :hibiscus:	
+</div>
+
 
 [Dev.to]:https://dev.to/mahdidev78
 [LinkedIn]:https://www.linkedin.com/in/mahdi-khosravi-6a366121b/
