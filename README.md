@@ -8,13 +8,14 @@
 [![Years Badge](https://badges.pufler.dev/years/mahdidev78)][GitHub]
 [![OpenSource Love Badge](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)][GitHub Repos]
 [![Ubuntu Badge](https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/mahdidev78)
 
 
+<!-- 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/inkscape/inkscape-ar21.svg"></code>
+ -->
 
-
-<!-- [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/mahdidev78) -->
 
 - 👀 I’m interested in android development 
 - 🌱 I’m currently learning kotlin
