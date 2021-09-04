@@ -10,6 +10,10 @@
 [![Ubuntu Badge](https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
 
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/inkscape/inkscape-ar21.svg"></code>
+
+
 <!-- [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/mahdidev78) -->
 
 - 👀 I’m interested in android development 
@@ -93,9 +97,10 @@
 [<img src="https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white" alt="Dev.to logo" title="dev.to" height="24" />][Dev.to]
 [<img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium logo" title="Medium" height="24" />][Medium]
 [<img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="Github logo" title="Github" height="24" />][GitHub]
+[<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" height="24" />][Gmail]
 [<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram logo" title="Instagram" height="24" />][Instagram]
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram logo" title="Telegram" height="24" />][Telegram]
-	
+
 </details>
 
 [Dev.to]:https://dev.to/mahdidev78
@@ -106,3 +111,4 @@
 [Medium]:https://medium.com/@mahdidev78
 [GitHub]:https://github.com/mahdidev78
 [GitHub Repos]:https://github.com/mahdidev78?tab=repositories
+[Gmail]:mailto:mahdi.khosravi.dev78@gmail.com
