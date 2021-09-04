@@ -69,7 +69,7 @@ You can click the Preview link to take a look at your changes.
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
 	    <br />
-	</ul>	
+	</ul>
 </details>
 
 ![](https://komarev.com/ghpvc/?username=mahdidev78&color=blue)
@@ -78,3 +78,16 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/mahdidev78?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
 [![Repos Badge](https://badges.pufler.dev/repos/mahdidev78)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/mahdidev78)](https://badges.pufler.dev)
+
+
+
+
+## 🔍  Where to find me
+
+[<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="22" />](https://stackoverflow.com/users/16764233/mahdidev78)
+&nbsp;
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="22" />](https://www.linkedin.com/in/mahdi-khosravi-6a366121b/)
+
+[tech_tools_anchor]: #bonjour--
+[learning_now_anchor]: #learning-now
+[learning_next_anchor]: #learning-next
