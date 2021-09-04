@@ -4,7 +4,7 @@
 
 ![Profile Views Badge](https://komarev.com/ghpvc/?username=mahdidev78&color=blue)
 [![Followers Badge](https://img.shields.io/github/followers/mahdidev78?color=%234CC61E&label=GitHub%20Followers%20%3A)](https://github.com/mahdidev78?tab=followers)
-[![Repos Badge](https://badges.pufler.dev/repos/mahdidev78)][GitHub Repos]
+[![Repos Badge](https://badges.pufler.dev/repos/mahdidev78/)][GitHub Repos]
 [![Years Badge](https://badges.pufler.dev/years/mahdidev78)][GitHub]
 [![OpenSource Love Badge](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)][GitHub Repos]
 [![Ubuntu Badge](https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
