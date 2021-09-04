@@ -5,6 +5,8 @@
  
 - 🌱 I’m currently learning kotlin
  
+- ⚙️ I use daily: .kt, .java, .xml, .svg, .png
+
 - ![Profile Views Badge](https://komarev.com/ghpvc/?username=mahdidev78&color=blue)
 [![Followers Badge](https://img.shields.io/github/followers/mahdidev78?color=%234CC61E&label=GitHub%20Followers%20%3A)](https://github.com/mahdidev78?tab=followers)
 [![Repos Badge](https://badges.pufler.dev/repos/mahdidev78)][GitHub Repos]
