@@ -1,20 +1,19 @@
 ## Hi 👋 , I’m Mahdi Khosravi :rose:	
-
-<!-- [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/mahdidev78) -->
-
-- 👀 I’m interested in android development
- 
-- 🌱 I’m currently learning kotlin
- 
-- ⚙️ I use daily: .kt, .java, .xml, .svg, .png
-
-- ![Profile Views Badge](https://komarev.com/ghpvc/?username=mahdidev78&color=blue)
+![Profile Views Badge](https://komarev.com/ghpvc/?username=mahdidev78&color=blue)
 [![Followers Badge](https://img.shields.io/github/followers/mahdidev78?color=%234CC61E&label=GitHub%20Followers%20%3A)](https://github.com/mahdidev78?tab=followers)
 [![Repos Badge](https://badges.pufler.dev/repos/mahdidev78)][GitHub Repos]
 [![Years Badge](https://badges.pufler.dev/years/mahdidev78)][GitHub]
 [![OpenSource Love Badge](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)][GitHub Repos]
 [![Ubuntu Badge](https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
+<!-- [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/mahdidev78) -->
+
+- 👀 I’m interested in android development 
+- 🌱 I’m currently learning kotlin
+- ⚙️ I use daily: .kt, .java, .xml, .svg, .png
 <!-- 
 [![Andoird Badge](https://img.shields.io/badge/Dev-Android-3DDC84?logo=android&logoColor=white)](https://developer.android.com/)
  -->
