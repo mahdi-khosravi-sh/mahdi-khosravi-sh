@@ -16,7 +16,7 @@
 - ⚙️ I use daily: .kt, .java, .xml, .svg, .png
 - ❤️ Open Source Software
 
-<details open>
+<details>
 	<br />
 	<summary><b>🔨 Languages and Tools</b></summary>	
 	
