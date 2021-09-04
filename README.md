@@ -14,34 +14,28 @@
 - 👀 I’m interested in android development 
 - :books: I’m currently learning Kotlin.
 - ⚙️ I use daily: .kt, .java, .xml, .svg, .png
-<!-- 
-[![Andoird Badge](https://img.shields.io/badge/Dev-Android-3DDC84?logo=android&logoColor=white)](https://developer.android.com/)
- -->
-<details>
+- ❤️ Open Source Software
+
+<details open>
 	<br />
-	<summary><b>🔨 Languages and Tools</b></summary>
-
-<code><img width="5%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="5%" src="https://www.vectorlogo.zone/logos/inkscape/inkscape-ar21.svg"></code>
-
+	<summary><b>🔨 Languages and Tools</b></summary>	
 	
+[![Andoird Badge](https://img.shields.io/badge/Dev-Android-3DDC84?logo=android&logoColor=white)](https://developer.android.com/)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Inkscape-informational?style=flat&logo=inkscape&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-ShapeShift-informational?style=flat&logo=shapeshift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Inkscape-informational?style=flat&logo=inkscape&logoColor=white&color=black)
+![](https://img.shields.io/badge/Tools-ShapeShifter-informational?style=flat&logo=shapeshift&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Tools-Gimp-informational?style=flat&logo=gimp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-StackOverflow-informational?style=flat&logo=stackoverflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-FlatIcon-informational?style=flat&logo=flaticon&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Tools-icons8-informational?style=flat&logo=icons8&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Tools-gradle-informational?style=flat&logo=gradle&logoColor=white&color=green)
-
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=green)
-
 ![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat&logo=androidstudio&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=android&logoColor=white&color=green)
 #
