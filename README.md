@@ -1,6 +1,6 @@
 ## Hi 👋 , I’m Mahdi Khosravi :rose:	
 
-<img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/mahdidev78/.github/master/.resources/profile-header.svg" />
+<img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/mahdidev78/.github/master/.resources/.img/profile-header.svg" />
 
 ![Profile Views Badge](https://komarev.com/ghpvc/?username=mahdidev78&color=blue)
 [![Followers Badge](https://img.shields.io/github/followers/mahdidev78?color=%234CC61E&label=GitHub%20Followers%20%3A)](https://github.com/mahdidev78?tab=followers)
