@@ -77,9 +77,8 @@
   <br />
   <summary><b>☄️  Github Streaks</b></summary>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahdidev78)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahdidev78&hide_border=true)](https://git.io/streak-stats)
 #
-
 </details>
   
 
