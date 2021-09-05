@@ -2,14 +2,13 @@
 
 <img width="100%" align="right" alt="Header" src="https://raw.githubusercontent.com/mahdidev78/.github/master/.res/.drawable/profile-header.svg" />
 
-![Profile Views Badge](https://komarev.com/ghpvc/?username=mahdidev78&color=blue)
-[![Followers Badge](https://img.shields.io/github/followers/mahdidev78?color=%234CC61E&label=GitHub%20Followers%20%3A)](https://github.com/mahdidev78?tab=followers)
-[![Repos Badge](https://badges.pufler.dev/repos/mahdidev78/)][GitHub Repos]
-[![Years Badge](https://badges.pufler.dev/years/mahdidev78)][GitHub]
-[![OpenSource Love Badge](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)][GitHub Repos]
-[![Ubuntu Badge](https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/mahdidev78)
-
+![Profile Views Badge][Komarev Profile Views]
+[![Followers Badge][Shields Followers]][GitHub Followers]
+[![Repos Badge][Pufler Repos]][GitHub Repos]
+[![Years Badge][Pufler Years]][GitHub]
+[![OpenSource Love Badge][Frapsoft OpenSource Love]][GitHub Repos]
+[![Ubuntu Badge][Shields Ubuntu]][Ubuntu]
+[![PRs Welcome][Shields PRs]][GitHub]
 
 - 👀 I’m interested in android development 
 - :books: I’m currently learning Kotlin.
@@ -20,24 +19,23 @@
 	<br />
 	<summary><b>🔨 Languages and Tools</b></summary>	
 	
-[![Andoird Badge](https://img.shields.io/badge/Dev-Android-3DDC84?logo=android&logoColor=white)](https://developer.android.com/)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Inkscape-informational?style=flat&logo=inkscape&logoColor=white&color=black)
-![](https://img.shields.io/badge/Tools-ShapeShifter-informational?style=flat&logo=shapeshift&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=red)
-![](https://img.shields.io/badge/Tools-Gimp-informational?style=flat&logo=gimp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-StackOverflow-informational?style=flat&logo=stackoverflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-FlatIcon-informational?style=flat&logo=flaticon&logoColor=white&color=green)
-![](https://img.shields.io/badge/Tools-icons8-informational?style=flat&logo=icons8&logoColor=white&color=green)
-![](https://img.shields.io/badge/Tools-gradle-informational?style=flat&logo=gradle&logoColor=white&color=green)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=green)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=green)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=green)
-![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat&logo=androidstudio&logoColor=white&color=green)
-![](https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=android&logoColor=white&color=green)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/Tools-Inkscape-informational?style=flat&logo=inkscape&logoColor=white)
+![](https://img.shields.io/badge/Tools-ShapeShifter-informational?style=flat&logo=shapeshift&logoColor=white)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Tools-Gimp-informational?style=flat&logo=gimp&logoColor=white)
+![](https://img.shields.io/badge/Tools-Vim-informational?style=flat&logo=vim&logoColor=white)
+![](https://img.shields.io/badge/Tools-StackOverflow-informational?style=flat&logo=stackoverflow&logoColor=white)
+![](https://img.shields.io/badge/Tools-FlatIcon-informational?style=flat&logo=flaticon&logoColor=white)
+![](https://img.shields.io/badge/Tools-icons8-informational?style=flat&logo=icons8&logoColor=white)
+![](https://img.shields.io/badge/Tools-gradle-informational?style=flat&logo=gradle&logoColor=white)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat&logo=androidstudio&logoColor=white)
+![](https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=android&logoColor=white)
 #
 
 </details>
@@ -109,15 +107,15 @@
 	<br />
 	<summary><b>🔍 Where to find me</b></summary>
   
-[<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="24" />][StackOverflow]
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="24" />][LinkedIn]
-[<img src="https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white" alt="Dev.to logo" title="dev.to" height="24" />][Dev.to]
-[<img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium logo" title="Medium" height="24" />][Medium]
-[<img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="Github logo" title="Github" height="24" />][GitHub]
-[<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" height="24" />][Gmail]
-[<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram logo" title="Instagram" height="24" />][Instagram]
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram logo" title="Telegram" height="24" />][Telegram]
-
+[<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="22" />][StackOverflow]
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="22" />][LinkedIn]
+[<img src="https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white" alt="Dev.to logo" title="dev.to" height="22" />][Dev.to]
+[<img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium logo" title="Medium" height="22" />][Medium]
+[<img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="Github logo" title="Github" height="22" />][GitHub]
+[<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" height="22" />][Gmail]
+[<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram logo" title="Instagram" height="22" />][Instagram]
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram logo" title="Telegram" height="22" />][Telegram]
+	
 </details>
 
 #
@@ -128,6 +126,8 @@
 </div>
 
 
+<!-- Links -->
+
 [Dev.to]:https://dev.to/mahdidev78
 [LinkedIn]:https://www.linkedin.com/in/mahdi-khosravi-6a366121b/
 [StackOverflow]:https://stackoverflow.com/users/16764233/mahdidev78
@@ -137,3 +137,15 @@
 [GitHub]:https://github.com/mahdidev78
 [GitHub Repos]:https://github.com/mahdidev78?tab=repositories
 [Gmail]:mailto:mahdi.khosravi.dev78@gmail.com
+[GitHub Followers]:https://github.com/mahdidev78?tab=followers
+[Ubuntu]:https://ubuntu.com/
+
+<!-- Shields -->
+
+[Komarev Profile Views]:https://komarev.com/ghpvc/?username=mahdidev78
+[Shields Followers]:https://img.shields.io/github/followers/mahdidev78?label=GitHub%20Followers%20%3A
+[Frapsoft OpenSource Love]:https://badges.frapsoft.com/os/v2/open-source.svg?v=103
+[Shields PRs]:https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github
+[Shields Ubuntu]:https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white
+[Pufler Repos]:https://badges.pufler.dev/repos/mahdidev78/?color=red
+[Pufler Years]:https://badges.pufler.dev/years/mahdidev78
