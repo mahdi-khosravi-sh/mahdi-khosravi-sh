@@ -42,6 +42,25 @@
 
 </details>
 
+
+<details>
+	<br />
+	<summary><b> 🗃️ Files that I use daily</b></summary>
+
+![](https://img.shields.io/badge/Java-.java-informational?style=flat&logo=java&logoColor=white)	
+![](https://img.shields.io/badge/Kotlin-.kt-informational?style=flat&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/Gradle-.gradle-informational?style=flat&logo=gradle&logoColor=white)
+![](https://img.shields.io/badge/XML-.xml-informational?style=flat&logo=xml&logoColor=white)
+![](https://img.shields.io/badge/YML-.yml-informational?style=flat&logo=yml&logoColor=white)
+![](https://img.shields.io/badge/Markdown-.md-informational?style=flat&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/Text-.txt-informational?style=flat&logo=file&logoColor=white)
+![](https://img.shields.io/badge/Vector-.svg-informational?style=flat&logo=svg&logoColor=white)
+![](https://img.shields.io/badge/Icon-.png-informational?style=flat&logo=icon&logoColor=white)
+![](https://img.shields.io/badge/Icon-.jpg-informational?style=flat&logo=icon&logoColor=white)
+#
+	
+</details>
+
 <!-- 
 ***### Projects and Dev Stuffs:
  -->
