@@ -9,6 +9,9 @@
 [![OpenSource Love Badge][Frapsoft OpenSource Love]][GitHub Repos]
 [![Ubuntu Badge][Shields Ubuntu]][Ubuntu]
 [![PRs Welcome][Shields PRs]][GitHub]
+	
+I am an Android developer 💻. I love making new things ❤️.
+Programming is very attractive to me and I try to improve myself in this field day by day. <b> I do not compete with anyone but my own past.</b>😊
 
 - 👀 I’m interested in android development 
 - :books: I’m currently learning Kotlin.
