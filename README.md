@@ -51,12 +51,14 @@
 ![](https://img.shields.io/badge/Kotlin-.kt-informational?style=flat&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Gradle-.gradle-informational?style=flat&logo=gradle&logoColor=white)
 ![](https://img.shields.io/badge/XML-.xml-informational?style=flat&logo=xml&logoColor=white)
+![](https://img.shields.io/badge/JSON-.json-informational?style=flat&logo=json&logoColor=white)
 ![](https://img.shields.io/badge/YML-.yml-informational?style=flat&logo=yml&logoColor=white)
+![](https://img.shields.io/badge/HTML5-.htm-informational?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-.md-informational?style=flat&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/Text-.txt-informational?style=flat&logo=file&logoColor=white)
 ![](https://img.shields.io/badge/Vector-.svg-informational?style=flat&logo=svg&logoColor=white)
-![](https://img.shields.io/badge/Icon-.png-informational?style=flat&logo=icon&logoColor=white)
-![](https://img.shields.io/badge/Icon-.jpg-informational?style=flat&logo=icon&logoColor=white)
+![](https://img.shields.io/badge/PNG-.png-informational?style=flat&logo=icon&logoColor=white)
+![](https://img.shields.io/badge/JPG-.jpg-informational?style=flat&logo=icon&logoColor=white)
 #
 	
 </details>
