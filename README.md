@@ -14,7 +14,7 @@ I am an Android developer 💻. I love making new things ❤️.
 Programming is very attractive to me and I try to improve myself in this field day by day. <b> I do not compete with anyone but my own past.</b>😊
 
 - 👀 I’m interested in android development 
-- :books: I’m currently learning Kotlin.
+- :books: I’m currently learning Kotlin
 - ⚙️ I use daily: .kt, .java, .xml, .svg, .png
 - ❤️ Open Source Software
 
