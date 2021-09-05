@@ -15,27 +15,44 @@
 - ⚙️ I use daily: .kt, .java, .xml, .svg, .png
 - ❤️ Open Source Software
 
-<details>
+<details open>
 	<br />
-	<summary><b>🔨 Languages and Tools</b></summary>	
+	<summary><b>🚀 Languages and Tools</b></summary>	
 	
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
-![](https://img.shields.io/badge/Tools-Inkscape-informational?style=flat&logo=inkscape&logoColor=white)
-![](https://img.shields.io/badge/Tools-ShapeShifter-informational?style=flat&logo=shapeshift&logoColor=white)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Tools-Gimp-informational?style=flat&logo=gimp&logoColor=white)
-![](https://img.shields.io/badge/Tools-Vim-informational?style=flat&logo=vim&logoColor=white)
-![](https://img.shields.io/badge/Tools-StackOverflow-informational?style=flat&logo=stackoverflow&logoColor=white)
-![](https://img.shields.io/badge/Tools-FlatIcon-informational?style=flat&logo=flaticon&logoColor=white)
-![](https://img.shields.io/badge/Tools-icons8-informational?style=flat&logo=icons8&logoColor=white)
-![](https://img.shields.io/badge/Tools-gradle-informational?style=flat&logo=gradle&logoColor=white)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat&logo=androidstudio&logoColor=white)
+![](https://img.shields.io/badge/Code-SVG-informational?style=flat&logo=vector&logoColor=white)
+![](https://img.shields.io/badge/Code-XML-informational?style=flat&logo=XML&logoColor=white)
+
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/Database-Room-informational?style=flat&logo=room&logoColor=white)
+	
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white)
+![](https://img.shields.io/badge/Tools-Inkscape-informational?style=flat&logo=inkscape&logoColor=white)
+![](https://img.shields.io/badge/Tools-Gimp-informational?style=flat&logo=gimp&logoColor=white)
+![](https://img.shields.io/badge/Tools-ShapeShifter-informational?style=flat&logo=shapeshift&logoColor=white)
+![](https://img.shields.io/badge/Tools-FlatIcon-informational?style=flat&logo=flaticon&logoColor=white)
+![](https://img.shields.io/badge/Tools-icons8-informational?style=flat&logo=icons8&logoColor=white)
+
+![](https://img.shields.io/badge/Site-AndroidDevelopers-informational?style=flat&logo=android&logoColor=white)
+![](https://img.shields.io/badge/Site-TutorialsPoint-informational?style=flat&logo=tutorialspoint&logoColor=white)
+![](https://img.shields.io/badge/Site-GoogleTranslate-informational?style=flat&logo=googletranslate&logoColor=white)
+![](https://img.shields.io/badge/Site-Wikipedia-informational?style=flat&logo=wikipedia&logoColor=white)
+![](https://img.shields.io/badge/Site-Lynda-informational?style=flat&logo=lynda&logoColor=white)
+![](https://img.shields.io/badge/Site-Udemy-informational?style=flat&logo=udemy&logoColor=white)
+	
+	
+![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white)
+![](https://img.shields.io/badge/Ide-AndroidStudio-informational?style=flat&logo=androidstudio&logoColor=white)
 ![](https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=android&logoColor=white)
+![](https://img.shields.io/badge/UI-Material&nbsp;Design-informational?style=flat&logo=materialdesign&logoColor=white)
+![](https://img.shields.io/badge/Browser-Google&nbsp;Chrome-informational?style=flat&logo=googlechrome&logoColor=white)
 #
 
 </details>
