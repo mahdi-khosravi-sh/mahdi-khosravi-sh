@@ -98,7 +98,7 @@ Programming is very attractive to me and I try to improve myself in this field d
 	    <li><b>Laptop: </b> msi CX61 (i7)</li>
   	    <li><b>Browser: </b> Chrome Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium and Linkedin.</li>
 		<li>
 			
 ![Workspace CPU](https://img.shields.io/badge/Intel-Core_i7_4th-0071C5?logo=intel&logoColor=white)
@@ -123,7 +123,7 @@ Programming is very attractive to me and I try to improve myself in this field d
 [<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" height="22" />][Gmail]
 [<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram logo" title="Instagram" height="22" />][Instagram]
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram logo" title="Telegram" height="22" />][Telegram]
-[<img src="https://img.shields.io/badge/Twitter-2CA5E0?logo=twitter&logoColor=white" alt="Twitter logo" title="Twitter" height="22" />][Twitter]
+<!-- [<img src="https://img.shields.io/badge/Twitter-2CA5E0?logo=twitter&logoColor=white" alt="Twitter logo" title="Twitter" height="22" />][Twitter] -->
 	
 </details>
 
@@ -142,14 +142,13 @@ Programming is very attractive to me and I try to improve myself in this field d
 [StackOverflow]:https://stackoverflow.com/users/16764233/mahdidev78
 [Instagram]:https://www.instagram.com/mahdidev78/
 [Telegram]:https://t.me/mahdidev78/
-[Twitter]:https://twitter.com/mahdidev78?s=09
+<!-- [Twitter]:https://twitter.com/mahdidev78?s=09 -->
 [Medium]:https://medium.com/@mahdidev78
 [GitHub]:https://github.com/mahdidev78
 [GitHub Repos]:https://github.com/mahdidev78?tab=repositories
 [Gmail]:mailto:mahdi.khosravi.dev78@gmail.com
 [GitHub Followers]:https://github.com/mahdidev78?tab=followers
 [Ubuntu]:https://ubuntu.com/
-
 [Android Developers]:https://developer.android.com/
 
 <!-- Shields -->
