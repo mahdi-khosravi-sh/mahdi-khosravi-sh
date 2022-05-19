@@ -38,7 +38,6 @@ Programming is very attractive to me and I try to improve myself in this field d
 ![](https://img.shields.io/badge/Tools-Inkscape-informational?style=flat&logo=inkscape&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Gimp-informational?style=flat&logo=gimp&logoColor=white)
 ![](https://img.shields.io/badge/Tools-ShapeShifter-informational?style=flat&logo=shapeshift&logoColor=white)
-![](https://img.shields.io/badge/Tools-FlatIcon-informational?style=flat&logo=flaticon&logoColor=white)
 ![](https://img.shields.io/badge/Tools-icons8-informational?style=flat&logo=icons8&logoColor=white)	
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white)
 ![](https://img.shields.io/badge/Ide-AndroidStudio-informational?style=flat&logo=androidstudio&logoColor=white)
