@@ -15,7 +15,7 @@ Programming is very attractive to me and I try to improve myself in this field d
 
 - 👀 I’m interested in android development 
 - :books: I’m currently learning Kotlin
-- ⚙️ I use daily: .kt, .java, .xml, .svg, .png
+- ⚙️ I use daily: .kt, .java, .xml, .svg, .png, .php
 - ❤️ Open Source Software
 
 <details>
