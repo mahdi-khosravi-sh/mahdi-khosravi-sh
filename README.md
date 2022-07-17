@@ -14,8 +14,8 @@ I am an Android developer 💻. I love making new things ❤️.
 Programming is very attractive to me and I try to improve myself in this field day by day. <b> I do not compete with anyone but my own past.</b>😊
 
 - 👀 I’m interested in android development 
-- :books: I’m currently learning Kotlin
-- ⚙️ I use daily: .kt, .java, .xml, .svg, .png, .php
+- :books: I’m currently learning Laravel
+- ⚙️ I use daily: .kt, .java, .php, .xml, .htm, .js, .css, .svg
 - ❤️ Open Source Software
 
 <details>
@@ -26,7 +26,10 @@ Programming is very attractive to me and I try to improve myself in this field d
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=php&logoColor=white)
+![](https://img.shields.io/badge/Code-Blade-informational?style=flat&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Code-SVG-informational?style=flat&logo=vector&logoColor=white)
 ![](https://img.shields.io/badge/Code-XML-informational?style=flat&logo=XML&logoColor=white)
