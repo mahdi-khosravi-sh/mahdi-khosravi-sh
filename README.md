@@ -91,7 +91,7 @@ Programming is very attractive to me and I try to improve myself in this field d
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 21.10</li>
+  	    <li><b>OS:</b> Ubuntu 22.04</li>
 	    <li><b>Laptop: </b> msi CX61 (i7)</li>
   	    <li><b>Browser: </b> Chrome Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh</li>
