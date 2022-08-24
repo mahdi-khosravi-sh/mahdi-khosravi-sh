@@ -4,8 +4,6 @@
 
 ![Profile Views Badge][Komarev Profile Views]
 [![Followers Badge][Shields Followers]][GitHub Followers]
-[![Repos Badge][Pufler Repos]][GitHub Repos]
-[![Years Badge][Pufler Years]][GitHub]
 [![OpenSource Love Badge][Frapsoft OpenSource Love]][GitHub Repos]
 [![Ubuntu Badge][Shields Ubuntu]][Ubuntu]
 [![PRs Welcome][Shields PRs]][GitHub]
@@ -157,5 +155,3 @@ Programming is very attractive to me and I try to improve myself in this field d
 [Frapsoft OpenSource Love]:https://badges.frapsoft.com/os/v2/open-source.svg?v=103
 [Shields PRs]:https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github
 [Shields Ubuntu]:https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white
-[Pufler Repos]:https://badges.pufler.dev/repos/mahdidev78/?color=red
-[Pufler Years]:https://badges.pufler.dev/years/mahdidev78
