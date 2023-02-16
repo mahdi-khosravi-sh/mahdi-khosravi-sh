@@ -1,6 +1,6 @@
 ## Hi 👋 , I’m Mahdi Khosravi :rose:	
 
-<img width="100%" align="right" alt="Header" src="https://raw.githubusercontent.com/mahdidev78/.github/master/.res/.drawable/profile-header.svg" />
+<img width="100%" align="right" alt="Header" src="https://raw.githubusercontent.com/mahdi-khosravi-sh/.github/master/.res/.drawable/profile-header.svg" />
 
 ![Profile Views Badge][Komarev Profile Views]
 [![Followers Badge][Shields Followers]][GitHub Followers]
@@ -72,8 +72,8 @@ Programming is very attractive to me and I try to improve myself in this field d
   <br />
   <summary><b>📊 Github Stats</b></summary>
 
-![Repository’s Stats](https://github-readme-stats.vercel.app/api?username=mahdidev78&layout=compact&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdidev78&layout=compact)
+![Repository’s Stats](https://github-readme-stats.vercel.app/api?username=mahdi-khosravi-sh&layout=compact&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-khosravi-sh&layout=compact)
 #
 </details>
 
@@ -82,7 +82,7 @@ Programming is very attractive to me and I try to improve myself in this field d
   <br />
   <summary><b>☄️  Github Streaks</b></summary>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahdidev78)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahdi-khosravi-sh)](https://git.io/streak-stats)
 #
 </details>
   
@@ -141,17 +141,17 @@ Programming is very attractive to me and I try to improve myself in this field d
 [Telegram]:https://t.me/mahdidev78/
 <!-- [Twitter]:https://twitter.com/mahdidev78?s=09 -->
 [Medium]:https://medium.com/@mahdidev78
-[GitHub]:https://github.com/mahdidev78
-[GitHub Repos]:https://github.com/mahdidev78?tab=repositories
+[GitHub]:https://github.com/mahdi-khosravi-sh
+[GitHub Repos]:https://github.com/mahdi-khosravi-sh?tab=repositories
 [Gmail]:mailto:mahdi.khosravi.dev78@gmail.com
-[GitHub Followers]:https://github.com/mahdidev78?tab=followers
+[GitHub Followers]:https://github.com/mahdi-khosravi-sh?tab=followers
 [Ubuntu]:https://ubuntu.com/
 [Android Developers]:https://developer.android.com/
 
 <!-- Shields -->
 
-[Komarev Profile Views]:https://komarev.com/ghpvc/?username=mahdidev78
-[Shields Followers]:https://img.shields.io/github/followers/mahdidev78?label=GitHub%20Followers%20%3A
+[Komarev Profile Views]:https://komarev.com/ghpvc/?username=mahdi-khosravi-sh
+[Shields Followers]:https://img.shields.io/github/followers/mahdi-khosravi-sh?label=GitHub%20Followers%20%3A
 [Frapsoft OpenSource Love]:https://badges.frapsoft.com/os/v2/open-source.svg?v=103
 [Shields PRs]:https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github
 [Shields Ubuntu]:https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white
