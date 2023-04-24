@@ -16,6 +16,12 @@ Programming is very attractive to me and I try to improve myself in this field d
 - ⚙️ I use daily: .kt, .java, .php, .xml, .htm, .js, .css, .svg
 - ❤️ Open Source Software
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mahdi-khosravi-sh&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+<!--
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mahdi-khosravi-sh&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-khosravi-sh&langs_count=5&theme=tokyonight)]()
+-->
+
 <details>
 	<br />
 	<summary><b>🚀 Languages and Tools</b></summary>	
